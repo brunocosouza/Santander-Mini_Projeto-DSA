@@ -10,3 +10,6 @@ Foram utilizado tecnicas como :
       from sklearn.decomposition import PCA
   #### RandomFlorest
       from sklearn.ensemble import RandomForestClassifier
+      
+Dados foram recuperados do Kaggle: 
+  https://www.kaggle.com/c/santander-customer-satisfaction/data
