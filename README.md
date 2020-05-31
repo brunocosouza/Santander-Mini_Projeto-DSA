@@ -2,7 +2,7 @@
 Santander Customer Satisfaction - Mini Projeto da DSA para previsão da satisfação dos clientes
 
 Foram utilizado tecnicas como
-  # UpSampling
-  # Normalização
-  # PCA
-  # RandomFlorest
+  UpSampling
+  Normalização
+  PCA
+  RandomFlorest
